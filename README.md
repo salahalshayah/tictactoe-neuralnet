@@ -18,7 +18,7 @@ Crafted with precision, this neural network evolves through training, making opt
 
 1. Clone the repository
    ```bash
-   git clone [repository-url](https://github.com/salahalshayah/tictactoe-neuralnet/)
+   git clone https://github.com/salahalshayah/tictactoe-neuralnet/
    ```
 
 2. Navigate to the project folder
